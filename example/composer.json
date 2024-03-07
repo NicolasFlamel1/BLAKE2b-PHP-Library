@@ -1,0 +1,5 @@
+{
+	"require": {
+		"nicolasflamel/blake2b": "^0.1.0"
+	}
+}
