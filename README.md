@@ -10,7 +10,7 @@ composer require nicolasflamel/blake2b
 ```
 
 ### Usage
-After a `Blake2b` object has been created, it can be used to compute the BLAKE2b hash of a string with an optional key and size;
+After a `Blake2b` object has been created, it can be used to compute the BLAKE2b hash of a string with an optional key and size.
 
 The following code briefly shows how to use this library. A more complete example is available [here](https://github.com/NicolasFlamel1/BLAKE2b-PHP-Library/tree/master/example).
 ```
