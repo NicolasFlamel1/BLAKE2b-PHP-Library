@@ -6,7 +6,7 @@ composer require nicolasflamel/blake2b
 php index.php
 ```
 
-If ran successfully, it should display something similar to the following.
+If ran successfully, it should display the following.
 ```
 Computing hash
 Hash: 441edc56cebc8e285d02267aa650819f15add7b06ef9b41b2690128dce655924
