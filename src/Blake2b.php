@@ -89,7 +89,6 @@ final class Blake2b {
 		
 			// Windows
 			case "Windows":
-			
 				
 				// Set file
 				$file = "blake2b-windows-" . (PHP_INT_SIZE * 8) . ".dll";
